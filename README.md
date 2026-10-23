@@ -3,7 +3,7 @@
 Software engineer who builds production systems, with a research background in deep learning.
 I'm focused on **MLOps and AI engineering**: taking ML from notebook to reliable production, built on solid system architecture.
 
-- **Now:** one of the first two engineers building an internal workflow-orchestration platform from scratch. Python/FastAPI backend, DAG engine, React/Next.js, Docker and GitLab CI/CD.
+- **Now:** one of the first two engineers hired in current team (TNS) building an internal workflow-orchestration platform from scratch. Python/FastAPI backend, DAG engine, React/Next.js, Docker and GitLab CI/CD.
 - **Research:** co-author of [*Sequential web user classification from system logs using BiLSTM and TCN*](https://doi.org/10.1038/s41598-026-69324-6), Scientific Reports (2026).
 - **Education:** M.Sc. Eng. in Intelligent Systems (with honours) and B.Sc. Eng. in Data Engineering & Analysis, Rzeszów University of Technology.
 
