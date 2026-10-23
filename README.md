@@ -20,9 +20,9 @@ I'm focused on **MLOps and AI engineering**: taking ML from notebook to reliable
 
 #### Stack
 
-**ML:** PyTorch · Hugging Face (Transformers, PEFT) · scikit-learn · pandas
-**Backend:** Python · FastAPI · Django REST · PostgreSQL · SQLAlchemy · Celery · Redis
-**Frontend:** React · Next.js · TypeScript
-**DevOps:** Docker · GitLab CI/CD · GitHub Actions · Nginx · Linux
+- **ML:** PyTorch · Hugging Face (Transformers, PEFT) · scikit-learn · pandas
+- **Backend:** Python · FastAPI · Django REST · PostgreSQL · SQLAlchemy · Celery · Redis
+- **Frontend:** React · Next.js · TypeScript
+- **DevOps:** Docker · GitLab CI/CD · GitHub Actions · Nginx · Linux
 
 [LinkedIn](https://www.linkedin.com/in/piotr-gren/)
